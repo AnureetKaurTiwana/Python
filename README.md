@@ -11,3 +11,12 @@ Understand Python’s internal instantiation process
 4. Inheritance
 5. Building Flexible Object Initializers
 6. Object Creation With .new()
+
+[3. Create and Modify PDF Files in Python](https://github.com/AnureetKaurTiwana/Python/blob/main/Create%20and%20Modify%20PDF%20Files%20in%20Python.ipynb)
+
+1. Read text from a PDF with pypdf
+2. Split a PDF file into multiple files
+3. Concatenate and merge PDF files together
+4. Rotate and crop pages in PDF files
+5. Encrypt and decrypt PDF files
+You’ll use the pypdf library to manipulate existing PDF files and the ReportLab library to create new PDF files from scratch. Along the way, you’ll have several opportunities to deepen your understanding with exercises and examples.
